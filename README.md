@@ -28,6 +28,19 @@ The core logic follows a "See-Think-Act" loop:
 3.  **Inference:** The image is sent to the yolov8 [Location calculated. Is it Left, Right, or Center?]*
 4.  **Action:** The LLM response triggers the specific motor function in `motor_driver.py`.
 
+## 👥 Meet the Team
+This project was designed, built, and programmed by our dedicated team of engineering students.
+
+| Name | Role | Socials |
+| :--- | :--- | :--- |
+| **Arbaz** | **Team Lead & AI Integration**<br>Developed the LLM logic and Python control scripts. | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/arbazniaz) |
+| **Hira** | **Hardware & Circuitry**<br>Designed the circuit diagrams and assembled the chassis. | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/hira-ishtiaq-6085b3334/) |
+| **Shayan** | **Embedded Systems**<br>Handled motor drivers and sensor integration. | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/teammate2-link) |
+| **Ghazanfer** | **Presentation and looks**<br>Wokred on overall looks and structure | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/ghazanfar-taqi-836778268/) |
+| **Abeeha** | **Documentation & Testing**<br>Managed testing protocols and project reports. | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/abeeha-tariq-a894b5334/) |
+| **Khadija** | **Documentation & Testing**<br>Managed testing protocols and project reports. | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/khadija-bilal-a98a05334/) |
+
+---
 ## 📂 Repository Structure
 ```text
 /src           # Source code for robot control
