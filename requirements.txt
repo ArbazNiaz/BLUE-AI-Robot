@@ -1,0 +1,16 @@
+# Hardware & GPIO
+gpiozero
+RPi.GPIO
+
+# AI & Computer Vision
+llama-cpp-python
+ultralytics
+opencv-python
+numpy
+
+# Audio & Speech
+SpeechRecognition
+PyAudio
+
+# Networking & Utilities
+requests
